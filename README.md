@@ -13,7 +13,7 @@ Replace `your_openai_api_key` with your actual OpenAI API key.
 
 ## Usage
 
-1. Access the touch typing website in your browser. The website is deployed at [https://your-website-url.com](https://your-website-url.com).
+1. Access the touch typing website in your browser. The website is deployed at [https://touchtyping.vercel.app/](https://touchtyping.vercel.app/).
 2. Enter the desired practice letters in the "Practice Letters" input field.
 3. Choose the number of words and the repetition count.
 4. Start typing in the main input box and try to match the provided sentence or words.
